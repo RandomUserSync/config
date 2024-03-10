@@ -19,8 +19,8 @@
     "amount": 24550.9045,
     "initialValue": 21731.66
   },
-  "ren": {
-    "amount": 21876.1071113,
-    "initialValue": 1890.66
+  "pyth-network": {
+    "amount": 1532.48522,
+    "initialValue": 1000
   }
 }
