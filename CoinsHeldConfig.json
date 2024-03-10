@@ -22,5 +22,9 @@
   "pyth-network": {
     "amount": 1532.48522,
     "initialValue": 1000
+  },
+  "republic-protocol": {
+    "amount": 21876.1071113,
+    "initialValue": 1809.21
   }
 }
