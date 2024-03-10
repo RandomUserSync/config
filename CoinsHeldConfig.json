@@ -18,5 +18,9 @@
   "kava": {
     "amount": 24550.9045,
     "initialValue": 21731.66
+  },
+  "ren": {
+    "amount": 21876.1071113,
+    "initialValue": 1890.66
   }
 }
