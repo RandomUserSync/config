@@ -1,30 +1,30 @@
 {
   "bitcoin": {
     "amount": 0,
-    "initialValue": 0
+    "buyPrice": 0
   },
   "ethereum": {
     "amount": 0,
-    "initialValue": 0
+    "buyPrice": 0
   },
   "solana": {
     "amount": 6037,
-    "initialValue": 213700
+    "buyPrice": 100
   },
   "dogecoin": {
     "amount": 0,
-    "initialValue": 0
+    "buyPrice": 0
   },
   "kava": {
     "amount": 0,
-    "initialValue": 0
+    "buyPrice": 0
   },
   "pyth-network": {
     "amount": 0,
-    "initialValue": 0
+    "buyPrice": 0
   },
   "republic-protocol": {
     "amount": 0,
-    "initialValue": 0
+    "buyPrice": 0
   }
 }
