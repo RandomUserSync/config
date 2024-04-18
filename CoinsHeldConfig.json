@@ -4,27 +4,44 @@
     "buyPrice": 0
   },
   "ethereum": {
-    "amount": 0,
-    "buyPrice": 0
+    "amount": 3,
+    "buyPrice": 64667
   },
   "solana": {
-    "amount": 2174,
+    "amount": 2216,
     "buyPrice": 100
   },
   "dogecoin": {
-    "amount": 0,
+    "amount": 84462,
     "buyPrice": 0
   },
   "kava": {
-    "amount": 0,
+    "amount": 41980,
     "buyPrice": 0
   },
   "pyth-network": {
-    "amount": 0,
+    "amount": 11294,
     "buyPrice": 0
   },
   "republic-protocol": {
-    "amount": 0,
+    "amount": 21876,
     "buyPrice": 0
+   },
+  "fantom": {
+    "amount": 14807,
+    "buyPrice": 0
+    },
+  "avalanche-2": {
+    "amount": 89,
+    "buyPrice": 0
+     },
+  "pancakeswap-token": {
+    "amount": 89,
+    "buyPrice": 0
+      },
+  "chainlink": {
+    "amount": 141,
+    "buyPrice": 0
+    },
   }
 }
