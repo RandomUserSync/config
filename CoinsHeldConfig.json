@@ -26,21 +26,21 @@
   "republic-protocol": {
     "amount": 21876,
     "buyPrice": 0
-   },
+  },
   "fantom": {
     "amount": 14807,
     "buyPrice": 0
-    },
+  },
   "avalanche-2": {
     "amount": 89,
     "buyPrice": 0
-     },
+  },
   "pancakeswap-token": {
     "amount": 89,
     "buyPrice": 0
-      },
+  },
   "chainlink": {
     "amount": 141,
     "buyPrice": 0
-    }
+  }
 }
