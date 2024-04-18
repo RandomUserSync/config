@@ -5,7 +5,7 @@
   },
   "ethereum": {
     "amount": 3,
-    "buyPrice": 64667
+    "buyPrice": 0
   },
   "solana": {
     "amount": 2216,
