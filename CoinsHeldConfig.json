@@ -8,7 +8,7 @@
     "buyPrice": 0
   },
   "solana": {
-    "amount": 2380,
+    "amount": 2398,
     "buyPrice": 100
   },
   "dogecoin": {
@@ -16,7 +16,7 @@
     "buyPrice": 0
   },
   "kava": {
-    "amount": 31485,
+    "amount": 8855,
     "buyPrice": 0
   },
   "pyth-network": {
@@ -35,8 +35,8 @@
     "amount": 89,
     "buyPrice": 0
   },
-  "pancakeswap-token": {
-    "amount": 0,
+  "render-token": {
+    "amount": 616,
     "buyPrice": 0
   },
   "chainlink": {
