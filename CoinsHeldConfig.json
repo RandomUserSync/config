@@ -8,15 +8,15 @@
     "buyPrice": 0
   },
   "solana": {
-    "amount": 2398,
+    "amount": 2441,
     "buyPrice": 100
   },
   "dogecoin": {
     "amount": 84462,
     "buyPrice": 0
   },
-  "kava": {
-    "amount": 8855,
+  "bitcoin-cash": {
+    "amount": 29,
     "buyPrice": 0
   },
   "pyth-network": {
@@ -28,11 +28,11 @@
     "buyPrice": 0
   },
   "fantom": {
-    "amount": 14807,
+    "amount": 7403,
     "buyPrice": 0
   },
   "avalanche-2": {
-    "amount": 89,
+    "amount": 0,
     "buyPrice": 0
   },
   "render-token": {
